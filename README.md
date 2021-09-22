@@ -9,5 +9,5 @@ how to make an eel python project using html css and javascript executable
 
 put html and css file in a front_end folder so that when you run the app in your terminal it will be able to run without any isuue
 
-here are preview images:
+here is a preview image:
 ![](1.png)
